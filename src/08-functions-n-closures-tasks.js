@@ -162,6 +162,7 @@ function logger(func, logFunc) {
  * Return the function with partial applied arguments
  *
  * @param {Function} fn
+ * @param args1
  * @return {Function}
  *
  * @example
